@@ -7,5 +7,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Selenium Automation java/C#
-- 🌱 I’m currently learning Selenium 
+- 🌱 I’m currently learning Appium
 - 💬 Ask me about java,c#,Automation
