@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working on Selenium Automation C#
-- 🌱 I’m currently learning Appium
+- 🌱 I’m currently learning Robotic Process Automation
 - 💬 Ask me about java,c#,Automation
